@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "40351732509",
+    "project_id": "once-5105b",
+    "storage_bucket": "once-5105b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40351732509:android:4d8db2d54f740a6118c7f4",
+        "android_client_info": {
+          "package_name": "com.andriod.memeera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40351732509-6dgjqan2p2aicsmovd4ia540rfieeqg6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCq5AoXGe_xBivRZ2m_aIVywDdnCojsWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40351732509-6dgjqan2p2aicsmovd4ia540rfieeqg6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40351732509:android:277fab74f7709aa218c7f4",
+        "android_client_info": {
+          "package_name": "com.thinkonce.once"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40351732509-6dgjqan2p2aicsmovd4ia540rfieeqg6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCq5AoXGe_xBivRZ2m_aIVywDdnCojsWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40351732509-6dgjqan2p2aicsmovd4ia540rfieeqg6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
